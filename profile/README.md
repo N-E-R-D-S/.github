@@ -32,7 +32,7 @@ Este año no venimos a aprender desde cero…
 | **Nelson Cordoba**  | Diseño Gráfico UI/UX / Frontend   |
 | **César Cerda**     | Desarrollador Backend             |
 | **Reina Flores**    | Marketing                         |
-| **??**              | Comunicación                      |
+| **Genesis Ríos**    | Comunicación                      |
 
 ---
 
