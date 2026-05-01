@@ -8,6 +8,8 @@
 Somos un equipo apasionado por la tecnología, la innovación y la creación de soluciones con impacto real.  
 Después de haber alcanzado la **etapa final en Hackathon Nicaragua 2025**, regresamos en 2026 como un equipo **más experimentado, estratégico y preparado para competir al más alto nivel**. 🔥
 
+![NERDS](https://i.postimg.cc/kGXL6PF0/mascota-nerds.jpg)
+
 ---
 
 ## 🧠 Experiencia
@@ -24,7 +26,7 @@ Este año no venimos a aprender desde cero…
 
 ---
 
-## 👥 Nuestro Equipo
+## 👥 Nuestro Equipo 2026
 
 | Miembro             | Rol                               |
 | ------------------- | --------------------------------- |
